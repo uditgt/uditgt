@@ -1,4 +1,11 @@
 # [![Udit Gupta header](https://github.com/uditgt/uditgt/blob/main/assets/Banner.png)](https://www.linkedin.com/in/uditgt/)
+![](https://img.shields.io/badge/Programming-Python,%20R-blue?logo=python&logoColor=white)
+![](https://img.shields.io/badge/DB-MySQL-blue?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn,%20XGBoost,%20Imblearn-blue?logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Visualization-Seaborn,%20Plotly,%20Tableau,%20PowerBI-blue?logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker,%20CLI-blue)
+![](https://img.shields.io/badge/Collab-Github,%20Slack,%20Confluence-blue)
+
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/uditgt/"><img height="30" src="https://github.com/uditgt/uditgt/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp;
@@ -13,8 +20,8 @@ You can also find my posts on [Medium](https://medium.com/@uditg), where I enjoy
 
 
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
-🌱 I enjoy figuring our new tools and tech. At present, I'm learning [Docker](https://www.docker.com/), Automation using Python and Blockchain programming.  
-⚡ I'm love hiking and am a proud graduate from UCLA Anderson. Go Bruins!
+🌱 I enjoy figuring our new tools and tech. At present, I'm learning [Docker](https://www.docker.com/), Python CLI automation and Blockchain programming.  
+⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!
 
 <!--
 **uditgt/uditgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
