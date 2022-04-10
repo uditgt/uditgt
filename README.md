@@ -2,9 +2,8 @@
 ![](https://img.shields.io/badge/Programming-Python,%20R-blue?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/DB-MySQL-blue?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn,%20XGBoost,%20Imblearn-blue?logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Visualization-Seaborn,%20Plotly,%20Tableau,%20PowerBI-blue?logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Visualization-Tableau,%20PowerBI-blue?logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker,%20CLI-blue)
-![](https://img.shields.io/badge/Collab-Github,%20Slack,%20Confluence-blue)
 
 
 <p align='center'>
