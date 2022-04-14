@@ -35,5 +35,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
   ---
+  
+<!--
+Intesting links:
+
+**SQL**: [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial), [SQL Puzzles](https://blog.sqlauthority.com/category/sql-puzzle/), [SQL Formatting](https://poorsql.com/)
+
+-->
