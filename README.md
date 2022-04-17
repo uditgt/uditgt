@@ -11,7 +11,7 @@
 <a href="https://medium.com/@uditg"><img height="30" src="https://github.com/uditgt/uditgt/blob/main/assets/medium.png"></a>&nbsp;&nbsp;
 </p>
 
-Hi there 👋
+Howdy🤠
 
 I am an experienced Data Scientist who has spent many a years in Fintech and playing with financial datasets. I am passionate about python and data science, and some of my project work is available here - [Data Science using python](https://github.com/uditgt/Data_science_python). 
 
