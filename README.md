@@ -13,7 +13,7 @@
 
 Howdy🤠
 
-I am an experienced Data Scientist who has spent many a years in Fintech and playing with financial datasets. I am passionate about python and data science, and some of my project work is available here - [Data Science using python](https://github.com/uditgt/Data_science_python). 
+I am an experienced Data Scientist who has spent many a years in Fintech and playing with financial datasets. It was at UCLA that I began playing with datasets, and I've enjoyed working at the cross-section of business, technology and quantiative analysis since. I am passionate about python and data science, and some of my project work is available here - [Data Science using python](https://github.com/uditgt/Data_science_python). 
 
 You can also find my posts on [Medium](https://medium.com/@uditg), where I (recently) started sharing my thoughts on applied data science and blockchain, which I find fascinating.
 
