@@ -13,12 +13,12 @@
 
 Howdy🤠
 
-I am an experienced Data Scientist who has spent many a years in Fintech and playing with financial datasets. It was at UCLA that I began playing with datasets, and I've enjoyed working at the cross-section of business, technology and quantiative analysis since. I am passionate about python and data science, and some of my project work is available here - [Data Science using python](https://github.com/uditgt/Data_science_python). 
+I am an experienced Data Scientist who has spent many a years in Fintech and playing with financial datasets. It was at UCLA that I began playing with datasets, and I've enjoyed working at the cross-section of business, technology and quantiative analysis since. I am passionate about python and data science, and some of my project work is available here - [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*, [ML using Python](https://github.com/uditgt/ML_python). 
 
-You can also find my posts on [Medium](https://medium.com/@uditg), where I (recently) started sharing my thoughts on applied data science and blockchain, which I find fascinating.
+You can find my posts on [Medium](https://medium.com/@uditg), where I (recently) started sharing my thoughts on applied data science and block-chain, which I find fascinating. More to come there. 
 
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
-🌱 I enjoy figuring our new tools and tech. At present, I'm learning [Docker](https://www.docker.com/) and [Crypto & Blockchain landscape](https://github.com/uditgt/crypto).  
+🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and [Crypto & Blockchain landscape](https://github.com/uditgt/crypto).  
 ⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!
 
 <!--
