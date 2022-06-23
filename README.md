@@ -18,7 +18,7 @@ I am an experienced Data Scientist who has spent many a years in Fintech and pla
 You can find my posts on [Medium](https://medium.com/@uditg), where I (recently) started sharing my thoughts on applied data science and block-chain, which I find fascinating. More to come there. 
 
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
-🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and [Crypto & Blockchain landscape](https://github.com/uditgt/crypto).  
+🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and [Blockchain use-cases](https://github.com/uditgt/crypto).  
 ⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!
 
 <!--
