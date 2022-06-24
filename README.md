@@ -13,13 +13,15 @@
 
 Howdy🤠
 
-I am an experienced Data Scientist who has spent many a years in Fintech and playing with financial datasets. It was at UCLA that I began playing with datasets, and I've enjoyed working at the cross-section of business, technology and quantiative analysis since. I am passionate about python and data science, and some of my project work is available here - [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*, [ML using Python](https://github.com/uditgt/ML_python). 
+I am an experienced Data Scientist who has spent many a years playing with classical models and financial datasets. It was at UCLA that I began playing with datasets, and I've enjoyed working at the cross-section of business, technology and data science (or quantiative analysis) since. Some of my project work, including with more fancier models, is available here - [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*, [ML using Python](https://github.com/uditgt/ML_python). 
 
-You can find my posts on [Medium](https://medium.com/@uditg), where I (recently) started sharing my thoughts on applied data science and block-chain, which I find fascinating. More to come there. 
+You can find my posts on [Medium](https://medium.com/@uditg), where I (*try to*) share thoughts on applied data science problems and general musings on my experimentation with block-chain projects. 
 
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
 🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and [Blockchain use-cases](https://github.com/uditgt/crypto).  
-⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!
+⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!  
+👨‍🎓 Certifications - *(to be added)*
+
 
 <!--
 **uditgt/uditgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
