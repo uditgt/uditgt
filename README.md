@@ -20,7 +20,7 @@ You can find my posts on [Medium](https://medium.com/@uditg), where I (*try to*)
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
 🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and [Blockchain use-cases](https://github.com/uditgt/crypto).  
 ⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!  
-👨‍🎓 Certifications - *(to be added)*
+👨‍🎓 Certifications - [Statistical Learning (Stanford)](https://courses.edx.org/certificates/e2af3fd785104cd8823c2dd87104f94f) *(to be added)*
 
 
 <!--
