@@ -13,9 +13,14 @@
 
 Howdy🤠
 
-I am an experienced Data Scientist who has spent many a years playing with classical models and financial datasets. It was at UCLA that I began playing with datasets, and I've enjoyed working at the cross-section of business, technology and data science (or quantiative analysis) since. Some of my project work, including with more fancier models, is available here - [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*, [ML using Python tutorials](https://github.com/uditgt/ML_python). 
+Some of my repos:
+* [Deep Learning Specialization](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/README.md)
+* [Time series modeling](https://github.com/uditgt/TimeSeries/blob/main/README.md)
+* [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*
+* [ML using Python tutorials](https://github.com/uditgt/ML_Python/blob/main/README.md)
+* [Quant Equity Research](https://github.com/uditgt/quant_equity_research/blob/main/README.md)
 
-You can find my posts on [Medium](https://medium.com/@uditg), where I (*try to*) share thoughts on applied data science problems and general musings on my experimentation with block-chain projects. 
+You can also find my posts on [Medium](https://medium.com/@uditg), where I (*try to*) share thoughts on practical data science problems and other musings. 
 
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
 🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and MLOps.  
