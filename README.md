@@ -15,10 +15,10 @@ Howdy🤠
 
 Some of my repos:
 * [Deep Learning Specialization](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/README.md)
+* [Machine Learning using Python](https://github.com/uditgt/ML_Python/blob/main/README.md)
 * [Time series modeling](https://github.com/uditgt/TimeSeries/blob/main/README.md)
-* [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*
-* [ML using Python tutorials](https://github.com/uditgt/ML_Python/blob/main/README.md)
 * [Quant Equity Research](https://github.com/uditgt/quant_equity_research/blob/main/README.md)
+* [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*
 
 You can also find my posts on [Medium](https://medium.com/@uditg), where I (*try to*) share thoughts on practical data science problems and other musings. 
 
