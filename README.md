@@ -13,10 +13,10 @@
 
 Howdy🤠
 
-Some of my repos:
+Select repos:
 * [Deep Learning Specialization](https://github.com/uditgt/coursera-deep-learning-specialization/blob/main/README.md)
 * [Machine Learning using Python](https://github.com/uditgt/ML_Python/blob/main/README.md)
-* [Time series modeling](https://github.com/uditgt/TimeSeries/blob/main/README.md)
+* [Time-Series modeling](https://github.com/uditgt/TimeSeries/blob/main/README.md)
 * [Quant Equity Research](https://github.com/uditgt/quant_equity_research/blob/main/README.md)
 * [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*
 
@@ -25,7 +25,7 @@ You can also find my posts on [Medium](https://medium.com/@uditg), where I (*try
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
 🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and MLOps.  
 ⚡ I love hiking and am a proud graduate from UCLA Anderson. Go Bruins!  
-👨‍🎓 Certifications - [Deep Learning Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/Y23QW2JU39ZE), [Statistical Learning (Stanford)](https://courses.edx.org/certificates/e2af3fd785104cd8823c2dd87104f94f) *(to be added)*
+👨‍🎓 Certifications - [Deep Learning Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/Y23QW2JU39ZE), [Python for Machine Learning](https://www.udemy.com/certificate/UC-28cb515d-d4ac-476d-96ed-5c975e5e0bbc/), [Statistical Learning in R (Stanford)](https://courses.edx.org/certificates/e2af3fd785104cd8823c2dd87104f94f)
 
 
 <!--
