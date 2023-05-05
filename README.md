@@ -1,8 +1,8 @@
 # [![Udit Gupta header](https://github.com/uditgt/uditgt/blob/main/assets/Banner.png)](https://www.linkedin.com/in/uditgt/)
 ![](https://img.shields.io/badge/Programming-Python,%20R-blue?logo=python&logoColor=white)
-![](https://img.shields.io/badge/DB-MySQL-blue?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/DB-MySQL,%20Redshift-blue?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn,%20XGBoost,%20Imblearn-blue?logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Visualization-Tableau,%20PowerBI-blue?logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Visualization-QuickSight-blue?logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Learning%20(Basic)-Git,%20Docker,%20Bash-blue)
 
 
