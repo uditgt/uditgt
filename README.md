@@ -20,7 +20,7 @@ Select repos:
 * [Quant Equity Research](https://github.com/uditgt/quant_equity_research/blob/main/README.md)
 * [Projects](https://github.com/uditgt/Projects) *(curation-in-progress as I find more time)*
 
-You can also find my posts on [Medium](https://medium.com/@uditg), where I (*try to*) share thoughts on practical data science problems and other musings. 
+You can also find my posts on [Medium](https://medium.com/@uditg), where I share thoughts on practical data science problems and other musings. 
 
 📫 Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/uditgt/).   
 🌱 I enjoy figuring our new tools and tech. At present, I'm learning Docker and MLOps.  
