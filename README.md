@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/DB-MySQL,%20Redshift-blue?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Machine%20Learning-Scikit--learn,%20XGBoost,%20Imblearn-blue?logo=scikitlearn&logoColor=white)
 ![](https://img.shields.io/badge/Visualization-QuickSight-blue?logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/Learning%20(Basic)-Git,%20Docker,%20Bash-blue)
+![](https://img.shields.io/badge/Ops-Git,%20Docker,%20Bash-blue)
 
 
 <p align='center'>
